@@ -8,7 +8,7 @@ function Singup() {
         <div className=" flex justify-between">
           <div className=" flex flex-col justify-center">
             <h1 className=" text-[#6366f2] font-black text-6xl leading-loose">
-              WeChat
+              <Link to="/">WeChat</Link>
             </h1>
             <h2 className=" font-bold text-3xl uppercase text-slate-50 mb-2">
               Get started with easily register
