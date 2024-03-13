@@ -1,12 +1,12 @@
 import React from "react";
 import MyGroups from "./MyGroups";
 
-function Home() {
+function Groups() {
   return <div className=' bg-slate-100 w-full pl-9'>
     
-  <MyGroups/>
- 
-</div>;;
+    <MyGroups/>
+   
+  </div>;
 }
 
-export default Home;
+export default Groups;
